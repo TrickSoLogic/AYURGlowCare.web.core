@@ -12,5 +12,6 @@ namespace AYURGlowCare.web.core.Data
         }
         public DbSet<AYURGlowCare.web.core.Models.Product>? Product { get; set; }
         public DbSet<AYURGlowCare.web.core.Models.order>? order { get; set; }
+        public DbSet<AYURGlowCare.web.core.Models.Cart>? Cart { get; set; }
     }
 } 
