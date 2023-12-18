@@ -11,7 +11,7 @@ namespace AYURGlowCare.web.core.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     [Migration("00000000000000_CreateIdentitySchema")]
-    partial class CreateIdentitySchema
+    partial class CreateIdentitySchema 
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

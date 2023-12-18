@@ -1,1 +1,1 @@
-# AYURGlowCare.web.core
+# AYURGlowCare.web.core 

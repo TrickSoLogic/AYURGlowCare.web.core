@@ -10,4 +10,4 @@ namespace AYURGlowCare.web.core.Data
         {
         }
     }
-}
+} 
