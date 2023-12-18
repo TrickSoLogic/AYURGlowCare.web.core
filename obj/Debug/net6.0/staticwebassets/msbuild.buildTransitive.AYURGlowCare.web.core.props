@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AYURGlowCare.web.core.props" />
+</Project>
