@@ -5,6 +5,186 @@
       "PackagePath": "staticwebassets\\AYURGlowCare.web.core.bundle.scp.css"
     },
     {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\Logo.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Logo.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\bg-mega-menu.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-mega-menu.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\cart-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart-01.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\cart-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart-02.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\cart-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart-03.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\collection-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\collection-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\collection-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection-3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\favicon V1.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon V1.ico"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\favicon V2.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon V2.ico"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\favicon VB.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon VB.ico"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\feature-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\feature-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\feature-3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\hero-banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-banner-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\hero-banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-banner-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\hero-banner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-banner-3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\offer-banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\offer-banner-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\offer-banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\offer-banner-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\pay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pay.png"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\product-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-01.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\product-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-02.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\product-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-03.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\product-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-04.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\product-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-05.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\product-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-06.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\product-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-07.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\product-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-08.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\product-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-09.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\product-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\product-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\product-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-15.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\product-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-16.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\product-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-17.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\images\\v.png",
+      "PackagePath": "staticwebassets\\assets\\images\\v.png"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\assets\\readme.txt",
+      "PackagePath": "staticwebassets\\assets\\readme.txt"
+    },
+    {
       "Id": "D:\\ASP.net-CORE_MVC\\GIT\\Repository\\AYURGlowCare.web.core\\AYURGlowCare.web.core\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
